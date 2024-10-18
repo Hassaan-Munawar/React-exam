@@ -23,7 +23,6 @@ function App() {
     const updatedList = list.filter((_, i) => i !== index);
     setList(updatedList);
   };
-
   const editItem = (index) => {
     setInputText(list[index]);
     setIsEditing(true);
