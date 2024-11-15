@@ -39,5 +39,3 @@ React for building the app interface
 CSS for styling and responsiveness
 JavaScript for interactivity and logic
 useState Hook for managing state (tasks and theme preferences)
-
-🔗Hosted Link : https://lnkd.in/eXYZNne3
